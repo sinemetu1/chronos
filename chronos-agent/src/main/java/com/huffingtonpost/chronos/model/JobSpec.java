@@ -8,7 +8,7 @@ import org.apache.log4j.Logger;
 import org.joda.time.DateTime;
 
 public class JobSpec {
-  static final long serialVersionUID = 2L;
+  static final long serialVersionUID = 3L;
   public static Logger LOG = Logger.getLogger(JobSpec.class);
 
   public enum JobType {
